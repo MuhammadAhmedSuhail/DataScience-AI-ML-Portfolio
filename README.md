@@ -1,5 +1,5 @@
 # DataScience-Portfolio
-This is the collection of projects related to DataScience, Machine Learning and AI done for academic and self-learning purposes.
+This is a collection of projects related to DataScience, Machine Learning and AI done for academic and self-learning purposes.
 <br />
 This is updated on regular basis.
 
