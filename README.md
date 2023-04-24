@@ -8,9 +8,10 @@ This is updated on regular basis.
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://user-images.githubusercontent.com/72251313/234053103-3591fa28-5a6a-40f4-b32c-07decc933c0d.jpg"> **[EDA on Pakistan Floods](https://github.com/MuhammadAhmedSuhail/EDA-on-Pakistan-Floods)**
-
-This project aims to perform exploratory data analysis (EDA) using visualizations on the floods in Pakistan. The goal is to scrape data, extract insights and patterns from the flood data and create meaningful visualizations to better understand the situation. The project involves data scraping, data preprocessing, and data visualization using Python libraries like Selenium matplotlib and Seaborn.
+<div style="display: flex; align-items: center;">
+  <img src="https://user-images.githubusercontent.com/72251313/234053103-3591fa28-5a6a-40f4-b32c-07decc933c0d.jpg" alt="your-image-alt-text" width="200" height="200" style="margin-right: 20px;">
+  <p style="margin: 0; text-align: right;">This project aims to perform exploratory data analysis (EDA) using visualizations on the floods in Pakistan. The goal is to scrape data, extract insights and patterns from the flood data and create meaningful visualizations to better understand the situation. The project involves data scraping, data preprocessing, and data visualization using Python libraries like Selenium matplotlib and Seaborn.</p>
+</div>
 
 <br/>
 
