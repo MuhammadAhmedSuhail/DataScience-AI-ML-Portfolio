@@ -64,5 +64,5 @@ In this project, I implemented the A* algorithm to solve the problem of image re
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Data Mining, Natural Language Processing, Advanced Statistics, AI, Big Data Analytics,Exploratory Data Analysis, Data Preprocessing,
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib), R (Dplyr, Ggplot2), SQL, C++, Java
-- **Tools**: MySQL, Tableau, Git, Flask, MS Excel, VS Code, R Studio, Eclipse
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib), R (Dplyr, Ggplot2), SQL, C++, Java, JavaScript ( React, Node, Express )
+- **Tools**: MySQL, Tableau, Git, Flask, MS Excel, VS Code, R Studio, Eclipse, MongoDB
